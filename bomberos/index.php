@@ -1,4 +1,4 @@
 <?php
-//test Estoy dando commits? taylorswift
+echo "Hola Mundo!";
 phpinfo();
 ?>
